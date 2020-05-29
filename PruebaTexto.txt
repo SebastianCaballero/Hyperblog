@@ -1,4 +1,5 @@
 Prueba para el primer proyecto.
 Formato de texto.
 
-Primer cambio para evidenciar modificaciones.
+Vuelta por medio de reset hard al segundo commit.
+Prueba final de regresión de cambios.
